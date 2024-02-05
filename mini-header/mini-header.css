@@ -1,0 +1,17 @@
+.mini-header{
+    width: 100%;
+    display: flex;
+    background-color: #08165D;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.upb-icon{
+    width: 60px;
+    padding: 5px;
+}
+
+.explore{
+    color: ghostwhite;
+    margin-right: 10px;
+}
